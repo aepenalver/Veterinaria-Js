@@ -5,6 +5,8 @@ const [operacion, nombre, edad, animal, color, enfermedad] = process.argv.slice(
 
 const message = `
 Has ingresado una opción inválida
+
+Por ingresa una opción válida, consulta el README.md para mejor orientación respectoa los argumentos válidos.
 `;
 
 if (operacion === 'registrar') {

@@ -14,7 +14,7 @@ Desafío 1 para mostrar conocimientos de desarrollo con Node.Js.
 
 ## Instalación
 
-Instrucciones para instalar y configurar el proyecto:
+Instrucciones para instalar y usar la aplicación:
 
 1. Clonar repositorio:
 
@@ -55,7 +55,7 @@ _Nota: Si algún argumento contiene espacios (como por ejemplo "2 años"), aseg�
 
 ### 2. Leer todas las citas
 
-Para visualizar todas las atenciones registradas hasta el momento, utiliza el comando ```leer```:
+Para visualizar todas las atenciones registradas hasta el momento, utiliza el comando ```leer```.
 
 Ejemplo:
 ```bash
